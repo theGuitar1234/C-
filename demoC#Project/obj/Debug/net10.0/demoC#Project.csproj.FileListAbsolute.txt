@@ -1,0 +1,15 @@
+D:\Central Data\C#\demoC#Project\bin\Debug\net10.0\demoC#Project.exe
+D:\Central Data\C#\demoC#Project\bin\Debug\net10.0\demoC#Project.deps.json
+D:\Central Data\C#\demoC#Project\bin\Debug\net10.0\demoC#Project.runtimeconfig.json
+D:\Central Data\C#\demoC#Project\bin\Debug\net10.0\demoC#Project.dll
+D:\Central Data\C#\demoC#Project\bin\Debug\net10.0\demoC#Project.pdb
+D:\Central Data\C#\demoC#Project\obj\Debug\net10.0\demoC#Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Central Data\C#\demoC#Project\obj\Debug\net10.0\demoC#Project.AssemblyInfoInputs.cache
+D:\Central Data\C#\demoC#Project\obj\Debug\net10.0\demoC#Project.AssemblyInfo.cs
+D:\Central Data\C#\demoC#Project\obj\Debug\net10.0\demoC#Project.csproj.CoreCompileInputs.cache
+D:\Central Data\C#\demoC#Project\obj\Debug\net10.0\demoC#Project.sourcelink.json
+D:\Central Data\C#\demoC#Project\obj\Debug\net10.0\demoC#Project.dll
+D:\Central Data\C#\demoC#Project\obj\Debug\net10.0\refint\demoC#Project.dll
+D:\Central Data\C#\demoC#Project\obj\Debug\net10.0\demoC#Project.pdb
+D:\Central Data\C#\demoC#Project\obj\Debug\net10.0\demoC#Project.genruntimeconfig.cache
+D:\Central Data\C#\demoC#Project\obj\Debug\net10.0\ref\demoC#Project.dll
