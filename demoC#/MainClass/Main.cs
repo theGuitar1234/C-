@@ -1,8 +1,8 @@
 using System;
 
-public class Main
+public class Program
 {
-    public static void Main()
+    public static void Main(String[] args)
     {
         Console.WriteLine("Hello World");
     }
