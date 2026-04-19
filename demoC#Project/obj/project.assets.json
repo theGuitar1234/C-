@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Central Data\\C#\\demoC#Project\\demoC#Project.csproj",
+      "projectUniqueName": "D:\\Central Data\\C-\\demoC#Project\\demoC#Project.csproj",
       "projectName": "demoC#Project",
-      "projectPath": "D:\\Central Data\\C#\\demoC#Project\\demoC#Project.csproj",
+      "projectPath": "D:\\Central Data\\C-\\demoC#Project\\demoC#Project.csproj",
       "packagesPath": "C:\\Users\\turan\\.nuget\\packages\\",
-      "outputPath": "D:\\Central Data\\C#\\demoC#Project\\obj\\",
+      "outputPath": "D:\\Central Data\\C-\\demoC#Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\turan\\AppData\\Roaming\\NuGet\\NuGet.Config"
